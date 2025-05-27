@@ -1,4 +1,4 @@
-# 吵架必赢
+# 吵架必赢 fray
 
 一个基于 Next.js、Tailwind CSS 和 Shadcn/UI 构建的智能反击助手应用。
 
